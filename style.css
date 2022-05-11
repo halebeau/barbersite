@@ -1877,6 +1877,7 @@ select.mobile-device {
     box-shadow: 0 5px 14px rgba(0, 0, 0, 0.1);
     background-color: #f2f3f5;
     padding: 40px 30px;
+    border-radius: 6px;
 }
 
 .contact_form .form-control {
@@ -2384,6 +2385,7 @@ body.barber_version .dev-list .widget:hover .hover-br .social-up-hover .footer-s
 }
 
 .appointment-time ul{}
+
 .appointment-time ul li{
 	color: #ffffff;
 	list-style-type: none;
@@ -2400,6 +2402,7 @@ body.barber_version .dev-list .widget:hover .hover-br .social-up-hover .footer-s
 	top: 5px;
 	padding: 0 5px;
 	display: inline-block;
+  border-radius: 6px;
 }
 .appointment-time ul li span:last-child{
 	float: right;

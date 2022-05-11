@@ -170,7 +170,7 @@ body.barber_version .contact_form {
 }
 
 body.barber_version .contact_form .form-control {
-    background-color: #000;
+    background-color: #252c2e;
     border: 0;
     border-bottom: 2px solid #1f1f1f !important;
 }
@@ -313,6 +313,7 @@ body.barber_version .dev-list .widget p {
 
 body.barber_version .dev-list img {
     width: 100%;
+    border-radius: 6px;
 }
 
 body.barber_version .dev-list .widget {
@@ -321,6 +322,7 @@ body.barber_version .dev-list .widget {
     border: 1px solid #ededed;
 	-webkit-box-shadow: 0px 5px 35px 0px rgba(148, 146, 245, 0.15);
 	box-shadow: 0px 5px 35px 0px rgba(148, 146, 245, 0.15);
+  border-radius: 6px;
 }
 
 body.barber_version .dev-list .widget h3 {
