@@ -1030,6 +1030,7 @@ body.barber_version .about-tab .nav-tabs > li a:hover{
 }
 .about-tab .tab-content > .tab-pane ul li i{
 	margin-right: 15px;
+  color: goldenrod;
 }
 
 
